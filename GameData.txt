@@ -1,4 +1,4 @@
-"DataLink"{
+{
    "data":[
       {
          "path"="https://data1/name"
