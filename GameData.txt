@@ -1,13 +1,13 @@
 "DataLink"{
    "data":[
       {
-         "path=""https://data1/name"
+         "path"="https://data1/name"
       },
       {
-         "path=""https://data1/name"
+        "path"="https://data1/name"
       },
       {
-         "path=""https://data1/name"
+         "path"="https://data1/name"
       }
    ],
    "version":0.1
