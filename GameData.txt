@@ -7,8 +7,8 @@
          "path":"https://khadimfirdosi.github.io/MyGameData/gamedata_assets_all_9ceac6db3f90d055ad0dd47e588ae760.bundle"
       },
       {
-         "path":"something23"
+         "path":"https://khadimfirdosi.github.io/MyGameData/gamedata_scenes_all_1f1ff3a6001898e912cc8137c65cc394.bundle"
       }
    ],
-   "version":0.2
+   "version":0.1
 }
