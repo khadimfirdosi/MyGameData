@@ -1,7 +1,7 @@
 {
    "data":[
       {
-         "path":"something1"
+         "path":"https://khadimfirdosi.github.io/MyGameData/505ff33ee3550790481274fd1be1a64b_unitybuiltinshaders_15f619bd125c3e6e9ec5ce7951bc78c8.bundle"
       },
       {
          "path":"something2"
